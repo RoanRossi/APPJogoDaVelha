@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jogo Da Velha</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tela_1_jogador">Tela_1Jogador</string>
+    <string name="title_activity_tela_2_jogadors">Tela_2Jogadors</string>
+    <color name="vermelho">#e53935</color>
+    <color name="verde">#43a047</color>
+    <color name="branco">#ffffff</color>
+
+</resources>
